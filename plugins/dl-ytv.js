@@ -19,10 +19,10 @@ let handler = async (m, { conn, args, isPrems, isOwner, usedPrefix, command }) =
   }
   const data = await response.json();
 
-  const caption = `✼ ••๑⋯❀ Y O U T U B E ❀⋯⋅๑•• ✼
+  const caption = `✼ ••๑⋯❀ 𝗣𝗟𝗔𝗬 ❀⋯⋅๑•• ✼
 	  
-  ❏ Title: ${data.data.title}
-  ❒ Link: ${args[0]}
+  → Title: ${data.data.title}
+  → Link: ${args[0]}
   ⊱─━⊱༻●༺⊰━─⊰`
  let vres = data.data.vid_360p
 
