@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+  ['51902247905', 'kenn', true],
+  ['51902247905', 'kenn', true], 
   [''] 
 ] //Number of owners
 
@@ -50,17 +50,17 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = '𝗢𝗡𝗬𝗫'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
-global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
+global.packname = '𝗢𝗡𝗬𝗫' 
+global.author = '𝗢𝗡𝗬𝗫' 
+global.menuvid = 'https://telegra.ph/file/876eedf950e9629f958cd.jpg'
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/onyx\n' 
 global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
+global.fgsc = 'https://github.com/kenn/onyx' 
+global.fgyt = 'https://youtube.com/onyx'
+global.fgpyp = 'https://youtube.com/onyx'
+global.fglog = 'https://telegra.ph/file/876eedf950e9629f958cd.jpg' 
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 
